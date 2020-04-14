@@ -1,0 +1,212 @@
+ body{
+	  	margin: 0px;
+	  	padding: 0px;
+	  	font-family: Helvetica, Arial, sans-serif;
+	  }
+		.header{
+			   
+               width:100%;
+               display:block;
+               background-color: #3b5998;
+               height: 88px;
+
+               
+}
+
+		#img1{
+			padding-top: 10px;
+			padding-left: 190px;
+			height: 36px;
+			width: 170px;
+		}
+		.logo{
+			width: 400px;
+			padding-top: 26px;
+			height: 0px;
+		
+		}
+		.login{
+			width: 600px;
+			float: right;
+			margin-bottom: 20px;
+		}
+		.login-form{
+
+		 }
+
+		 table{
+		 	color: white;
+		 	font-size: 14px;
+		 	padding: 0px 0px 14px 14px;
+		 	   
+		 }
+		 #Forgotten{
+		 	color: #9cb4d8;
+		 	text-decoration:none;
+		 }
+		 #Forgotten:hover{
+		 	text-decoration: underline;
+		 }
+		 #input1{
+		 	width: 145px;
+		 }
+		 #btn1{
+		 	background-color: #4267b2;
+		 	color: #fff;
+		    margin-left: 9px;
+		    border-style:none;
+		    padding: 3px;
+		 }
+		 .container{
+		 	    background: linear-gradient(white, #D3D8E8);
+    background-image: linear-gradient(white, rgb(211, 216, 232));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+		 }
+		
+		.inner-conatiner{
+			    margin: 0 auto;
+			    padding: 0px;
+		}
+		.left{
+			float: left;
+			    margin-right: 15px;
+    width: 565px;
+		}
+		 h3{
+		 	color: #0e385f;
+		 	font-size: 20px;
+		    font-weight: bold;
+		    line-height: 29px;
+		    margin-top: 40px;
+		    width: 450px;
+		    word-spacing: -1px;
+		    display: block;
+		    padding-left: 190px;
+		       
+		 }
+		  #img2{
+		 	padding-left: 180px;
+		 }
+		 .right{
+		 	height: 500px;
+		 	margin-left: 700px;
+		 	max-width: 600px;
+		 }
+		 #p1{
+		 	font-size: 19px;
+		 }
+		 .Name{
+		 	padding: 4px;
+		 }
+		 #input2{
+		 	font-size: 18px;
+		    padding: 8px 10px;
+		    border-radius: 5px;
+		    border:1px solid #ccd0d5;
+		 }
+		 .Email{
+		 	padding: 4px;
+		 }
+		 #input3{
+		 	font-size: 18px;
+		    padding: 8px 10px;
+		    border-radius: 5px;
+		    border:1px solid #ccd0d5;
+		    width: 78%;
+
+		 }
+		 .Password{
+		 	padding: 4px;
+		 }
+		 #input4{
+		 	font-size: 18px;
+		    padding: 8px 10px;
+		    border-radius: 5px;
+		    border:1px solid #ccd0d5;
+		    width: 78%;
+		 }
+		 .Birthday{
+
+		 	padding: 5px;
+		 	font-size: 18px;
+		 }
+		 #label1{
+		 	color: #90949c;
+		 }
+		 #day{
+		 	border: 1px solid #ccd0d5;
+		 	margin-top: 3px;
+		 	padding-top: 2px;
+		 	padding-left: 5px;
+		 	padding-right: 5px;
+		 	padding-bottom: 3px;
+		 }
+		 #month{
+		 	border: 1px solid #ccd0d5;
+		 	margin-top: 3px;
+		 	padding-top: 2px;
+		 	padding-left: 5px;
+		 	padding-right: 5px;
+		 	padding-bottom: 3px;
+		 }
+		 #year{
+		 	border: 1px solid #ccd0d5;
+		 	margin-top: 3px;
+		 	padding-top: 2px;
+		 	padding-left: 5px;
+		 	padding-right: 5px;
+		 	padding-bottom: 3px;
+		 }
+		 .radio{
+		 	padding: 6px;
+		 }
+		 #gender-heading{
+		 	font-size: 18px;
+		 	color:#90949c;
+		 }
+		 #radio1{
+		 	
+		 }
+		 .paragraph{
+		 	color: #90949c;
+		 	padding: 5px;
+		 	font-size: 12px;
+		 }
+
+		 #male{
+		 	font-weight: bold;
+		 }
+		 #female{
+		 	font-weight: bold;
+
+		 }
+		 #others{
+		 	font-weight: bold;
+		 }
+		 .button{
+		 	padding :10px;
+
+		 }
+		 #btn2{
+		 	padding-left: 68px;
+		 	padding-top: 10px;
+		 	padding-right: 68px;
+		 	padding-bottom: 10px;
+		 	background-color: #69a74e;
+		 	border-color: #3b6e22;
+		 	color: white;
+		 	font-size: 19px;
+		 	opacity: 1;
+		 	border:none;
+		 }
+		 #btn2:hover{
+		 	opacity: 0.9;
+		 }
